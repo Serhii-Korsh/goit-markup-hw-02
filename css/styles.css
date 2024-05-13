@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 .logo {
@@ -57,8 +58,6 @@ ul a {
 
 .sect1 {
   background: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
 
 .headline {
@@ -71,16 +70,8 @@ ul a {
 }
 
 .bott1 {
-  display: flex;
-  align-items: flex-start;
   justify-content: flex-start;
-  flex-direction: row;
-  gap: 10px;
-  border-radius: 4px;
   padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   cursor: pointer;
 }
@@ -138,8 +129,6 @@ h2 {
 
 .foot {
   background: #2e2f42;
-  width: 1440px;
-  height: 312px;
 }
 
 .logo-studio {
