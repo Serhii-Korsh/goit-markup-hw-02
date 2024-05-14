@@ -76,7 +76,6 @@ ul a {
 
 .section-one-btn {
   justify-content: flex-start;
-  padding: 16px 32px;
   background-color: #4d5ae5;
   cursor: pointer;
   font-weight: 500;
@@ -138,7 +137,7 @@ ul a {
   color: #2e2f42;
 }
 
-.taxt-advantages {
+.text-advantages {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
